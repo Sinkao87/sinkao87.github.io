@@ -18,5 +18,5 @@ main:
   - title: "Softwares"
     url: /cv/
     
-  - title: "Outros"
-    url: /markdown/
+  * title: "Outros"
+  * url: /markdown/
