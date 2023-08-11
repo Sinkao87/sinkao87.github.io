@@ -1,8 +1,8 @@
 locale                   : "pt-BR"
--title                    : "Scale's Oracle"
-+title                    : "Wilson R.O.S.Filho"
+-title                    : "Teste título "
++title                    : "Wilson Filho"
  title_separator          : "-"
--name                     : &name "Your Name"
+-name                     : &name "Teste nome título"
 -description              : &description "personal description"
 -url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 +name                     : &name "Dr. Test Account"
@@ -18,8 +18,8 @@ locale                   : "pt-BR"
  
  # Site Author
  author:
--  name             : "Your Sidebar Name"
-+  name             : "Dr. Test Account"
+-  name             : "wilson Santos"
++  name             : "Teste nome autor"
    avatar           : "profile.png"
 -  bio              : "Your biography for the left-hand sidebar"
 -  location         : "Location"
