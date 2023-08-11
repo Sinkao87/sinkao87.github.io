@@ -9,7 +9,7 @@
 locale                   : pt-BR"
 title                    : "Scale's Guides and Manuals Central"
 title_separator          : "-"
-name                     : &name "Wilson R.O.S.Filho"
+name                     : &name "Wilson R.O.S.Filho em 11/8/2023"
 description              : &description "Técnico em eletrônica, automação e sistemas"
 url                      : https://sinkao87.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Por: Wilson R.O.S.Filho.Desenvolvido em 11/8/2023"
+  name             : "Por: Wilson R.O.S.Filho"
   avatar           : "profile.png"
   bio              : "Eletrônica & Automação"
   location         : "São Paulo / Brasil"
