@@ -7,13 +7,10 @@ main:
     url: /publications/
 
   - title: "Sistemas & Automação"
-    url: /portfolio/   
-    
-  - title: "Dinâmicas"
-    url: /year-archive/
+    url: /publications/   
         
   - title: "Impressores"
-    url: /markdown/
+    url: /publications/
     
   - title: "Softwares"
-    url: /cv/
+    url: /publications/
