@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : pt-BR"
-title                    : "Scale's Oracle"
+title                    : "Scale's Oracle" #título da pagina
 title_separator          : "-"
-name                     : &name "Desenvolvolvido por: Wilson R.O.S.Filho em 12/8/2023"
+name                     : &name "Desenvolvolvido por: Wilson R.O.S.Filho em 12/8/2023" #rodapé da página
 description              : &description "Técnico em eletrônica, automação e sistemas"
 url                      : https://sinkao87.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Por: Wilson R.O.S.Filho"
+  name             : "Por: Wilson R.O.S.Filho" #abaixo do título meu nome
   avatar           : "profile.png"
-  bio              : "Eletrônica & Automação"
+  bio              : "Eletrônica & Automação"  #abaixo do título meu nome
   location         : "São Paulo / Brasil"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -189,12 +189,12 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
+# Defaults são as opções na página 
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: Indicadores 
     values:
       layout: single
       author_profile: true
@@ -205,14 +205,14 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: Impressores 
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: Automação 
     values:
       layout: single
       author_profile: true
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: Conversores 
     values:
       layout: single
       author_profile: true
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Softwares 
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: Outros 
     values:
       layout: talk
       author_profile: true
