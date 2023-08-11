@@ -194,7 +194,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: Indicadores 
+      type: posts 
     values:
       layout: single
       author_profile: true
@@ -205,20 +205,20 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: Impressores 
+      type: pages
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: Automação 
+      type: teaching 
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _testepublications
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Softwares 
+      type: portifolio 
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Outros 
+      type: talks
     values:
       layout: talk
       author_profile: true
