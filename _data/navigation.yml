@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Industriais"
-    url: /publications/
+    url: /Industriais/
 
   - title: "Comerciais"
-    url: /publications/
+    url: /Comerciais/
 
   - title: "Sistemas & Automação"
     url: /publications/
