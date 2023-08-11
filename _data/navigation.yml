@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Industriais"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Comerciais"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Sistemas & Automação"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Dinâmicas"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Impressores"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Softwares"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Outros"
     url: /markdown/
