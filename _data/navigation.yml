@@ -4,19 +4,16 @@ main:
     url: /publications/
 
   - title: "Comerciais"
-    url: /Comerciais/
+    url: /talks/
 
   - title: "Sistemas & Automação"
-    url: /Sistemas & Automação/   
+    url: /portifolio/   
     
   - title: "Dinâmicas"
-    url: /Dinâmicas/
+    url: /year-archive/
         
   - title: "Impressores"
-    url: /Inpressores/
+    url: /markdown/
     
   - title: "Softwares"
-    url: /Softwares/
-    
-  - title: "Outros"
-  - url: /cv/
+    url: /cv/
