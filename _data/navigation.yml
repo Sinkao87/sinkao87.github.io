@@ -7,22 +7,16 @@ main:
     url: /Comerciais/
 
   - title: "Sistemas & Automação"
-    url: /publications/
- 
-  - title: "Comerciais"
-    url: /talks/    
-
-  - title: "Sistemas & Automação"
-    url: /teaching/    
+    url: /Sistemas & Automação/   
     
   - title: "Dinâmicas"
-    url: /portfolio/
+    url: /Dinâmicas/
         
   - title: "Impressores"
-    url: /year-archive/
+    url: /Inpressores/
     
   - title: "Softwares"
-    url: /cv/
+    url: /Softwares/
     
   - title: "Outros"
-  - url: /markdown/
+  - url: /Outros/
